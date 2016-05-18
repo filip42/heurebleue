@@ -3,7 +3,7 @@
     "capabilities": [
         "location"
     ],
-    "companyName": "filip42",
+    "companyName": "Philippe",
     "longName": "HeureBleue",
     "projectType": "pebblejs",
     "resources": {
@@ -28,6 +28,11 @@
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/sunset.png",
+                "name": "IMAGES_SUNSET_PNG",
+                "type": "bitmap"
             }
         ]
     },
